@@ -52,7 +52,7 @@ docker run -it \
   scicomp-alma9
 ```
 
-If you are working on Winndows, using Powershell:
+If you are working on Windows, using Powershell:
 ```
 docker run -it `
   --name scicomp_container `
